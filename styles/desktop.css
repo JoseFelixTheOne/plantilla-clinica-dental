@@ -1,0 +1,79 @@
+/* menu bars */
+.menu-bars{
+    display: none;
+}
+/* menu */
+.menu{
+    margin: auto;
+    width: 81rem;
+    padding: 4.5rem 0;
+    box-shadow: none;
+}
+/* menu-logo */
+.menu-logo{
+    margin-left: 1rem;
+}
+/* menu nav */
+.menu-nav{
+    display: inline-block;
+    height: auto;
+    width: 50rem;
+    position: static;
+}
+.nav-flex{
+    display: flex;
+    width: auto;
+    height: auto;
+    justify-content: space-between;
+}
+.nav-flex__item{
+    margin: auto;
+    font-size: 2.2rem;
+}
+.nav-flex__item--inactive{
+    display: none;
+}
+.nav-flex__link{
+    color: #267fe9;
+    border-bottom: .1rem solid;
+}
+/* main */
+.main{
+    width: 80rem;
+    margin: auto;
+}
+/* hero */
+.hero{
+    height: 32rem;
+    overflow: hidden;
+}
+.hero__des{
+    font-size: 5rem;
+    padding: .5rem 1.8rem;
+    left: 3rem;
+}
+/* atencion */
+.atencion{
+    margin-top: 1.8rem;
+}
+.atencion__p{
+    font-size: 2rem;
+}
+.atencion__title{
+    font-size: 2.8rem;
+}
+.atencion__p a picture .whatsapp-icon__img{
+    margin-left: .8rem;
+}
+/* info */
+.info{
+    width: 30%;
+}
+/* footer */
+.footer-div__li{
+    font-size: 1.8rem;
+}
+.foot-limit{
+    width: 80rem;
+    margin: auto;
+}
